@@ -9,24 +9,26 @@ A beautiful Chrome extension for organizing and managing text snippets with mode
 - 🔍 **Smart Search** - Find snippets instantly
 - 📤 **Import/Export** - Backup and share your data
 - 🔐 **Secrets Management** - Secure storage for sensitive data
-- 💾 **Auto Backup** - Never lose your snippets
+- �️ **Masked Values** - Click to reveal sensitive content safely
+- �💾 **Auto Backup** - Never lose your snippets
 - 🎨 **Glass UI Design** - Modern iPhone-style interface
 - 💾 **Local Storage** - Your data stays private and secure
 - 🔄 **Real-time Updates** - Seamless user experience
 
 ## 🚀 Try It Now
 
-**Version 2.0** is now available with enhanced features! You can try it immediately by downloading the extension:
+**Version 2.1** is now available with enhanced security features! You can try it immediately by downloading the extension:
 
 ### 📦 Download & Install
 
-**Latest Version (v2.0)** - _Recommended_
+**Latest Version (v2.1)** - _Recommended_
 
-1. **Download**: [mopy-v2.0.zip](https://github.com/bhargavraju49/mopy-public/raw/main/mopy-v2.0.zip)
+1. **Download**: [mopy-v2.1.zip](https://github.com/bhargavraju49/mopy-public/raw/main/mopy-v2.1.zip)
 
-**Previous Version (v1.1)**
+**Previous Versions:**
 
-1. **Download**: [mopy-v1.1.zip](https://github.com/bhargavraju49/mopy-public/raw/main/mopy-v1.1.zip)
+- **v2.0**: [mopy-v2.0.zip](https://github.com/bhargavraju49/mopy-public/raw/main/mopy-v2.0.zip)
+- **v1.1**: [mopy-v1.1.zip](https://github.com/bhargavraju49/mopy-public/raw/main/mopy-v1.1.zip)
 
 ### Installation Steps:
 
@@ -36,7 +38,13 @@ A beautiful Chrome extension for organizing and managing text snippets with mode
 5. **Click** "Load unpacked" → Select the extracted folder
 6. **Done!** Click the Mopy icon in your toolbar
 
-## 🆕 What's New in v2.0
+## 🆕 What's New in v2.1
+
+- 👁️ **Masked Values** - Sensitive content is hidden by default, click to reveal safely
+- 🔒 **Enhanced Security** - Better protection for your sensitive data
+- 🛡️ **Privacy Improvements** - More secure handling of secrets
+
+## 📋 Previous Updates (v2.0)
 
 - 🔍 **Advanced Search** - Find any snippet instantly
 - 📤 **Import/Export** - Backup your data or migrate between devices
