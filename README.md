@@ -12,11 +12,11 @@ A beautiful Chrome extension for organizing and managing text snippets with mode
 
 ## 🚀 Try It Now
 
-**Version 1.0** is currently under Chrome Web Store review. You can try it immediately by downloading the extension:
+**Version 1.0** is currently under Chrome Web Store review! 🎉
 
-### 📦 Download & Install
+### 📦 Download & Install Locally
 
-1. **Download**: [mopy-v1.1.zip](https://github.com/bhargavraju49/mopy-public/raw/main/mopy-v1.1.zip)
+1. **Download**: [⬇️ mopy-extension-v1.0.zip](https://github.com/bhargavraju49/mopy/raw/main/mopy-v1.1.zip)
 2. **Extract** the zip file
 3. **Open Chrome** → Go to `chrome://extensions/`
 4. **Enable** "Developer mode" (top right toggle)
