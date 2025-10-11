@@ -23,20 +23,7 @@ A beautiful Chrome extension for organizing and managing text snippets with mode
 
 **Latest Version (v2.1)** - _Recommended_
 
-1. **Download**: [mopy-v2.1.zip](https://github.com/bhargavraju49/mopy-public/raw/main/mopy-v2.1.zip)
-
-**Previous Versions:**
-
-- **v2.0**: [mopy-v2.0.zip](https://github.com/bhargavraju49/mopy-public/raw/main/mopy-v2.0.zip)
-- **v1.1**: [mopy-v1.1.zip](https://github.com/bhargavraju49/mopy-public/raw/main/mopy-v1.1.zip)
-
-### Installation Steps:
-
-2. **Extract** the zip file
-3. **Open Chrome** → Go to `chrome://extensions/`
-4. **Enable** "Developer mode" (top right toggle)
-5. **Click** "Load unpacked" → Select the extracted folder
-6. **Done!** Click the Mopy icon in your toolbar
+1. **Download**: (https://chromewebstore.google.com/detail/emfebahabiacofeadebefnnkipgdkjcd?utm_source=item-share-cb)
 
 ## 🆕 What's New in v2.1
 
@@ -66,11 +53,6 @@ A beautiful Chrome extension for organizing and managing text snippets with mode
 - No external servers
 - [Privacy Policy](./privacy.html)
 
-## 📱 Screenshots
-
-_Coming soon - Chrome Web Store submission in progress_
-
----
 
 **Made with ❤️ using React + Material-UI + Chrome Extension APIs**
 import reactDom from 'eslint-plugin-react-dom'
